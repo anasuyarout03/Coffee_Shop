@@ -94,7 +94,7 @@ header {
     z-index: 5;
 }
 
-.shop {
+.nav-logo span {
     font-family: "Rochester", serif;
     color: var(--secondary-color);
 
